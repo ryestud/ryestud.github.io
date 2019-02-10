@@ -7,7 +7,7 @@ This is my group project that implements a BTree data structure to study the hum
 
 ```markdown
 
-[ CS321: Bioinformatics ](https://github.com/CS321Bioinformatics/p4.git).
+[CS321: Bioinformatics](https://github.com/CS321Bioinformatics/p4.git).
 
 
 ```
@@ -20,7 +20,7 @@ Some things I'm working on.
 
 ```markdown
 
-[ PickupPal ](git@gitlab.com:StuderRyley-Fall2018/CS402.git).
+[PickupPal](git@gitlab.com:StuderRyley-Fall2018/CS402.git).
 
 
 ```
